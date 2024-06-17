@@ -78,5 +78,8 @@ pub const MULTICALL_SUPPORTED_CHAIN_IDS: &[u64] = {
         106,                             // Velas
         40,                              // Telos
         Mode as u64,                     // Mode Mainnet
+        Blast as u64,                    // Blast,
+        PolygonZkEvm as u64,             // Polygon ZkEVM
+        Scroll as u64,                   // Scroll
     ]
 };
