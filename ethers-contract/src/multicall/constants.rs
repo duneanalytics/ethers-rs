@@ -81,6 +81,5 @@ pub const MULTICALL_SUPPORTED_CHAIN_IDS: &[u64] = {
         Blast as u64,                    // Blast,
         PolygonZkEvm as u64,             // Polygon ZkEVM
         Scroll as u64,                   // Scroll
-        ZkSync as u64,                   // ZkSync
     ]
 };
