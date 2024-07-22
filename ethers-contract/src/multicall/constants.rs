@@ -84,5 +84,6 @@ pub const MULTICALL_SUPPORTED_CHAIN_IDS: &[u64] = {
         60808,                           // Bob
         Zora as u64,                     // Zora
         Degen as u64,                    // Degen
+        888888888,                       // Ancient8
     ]
 };
