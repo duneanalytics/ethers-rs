@@ -78,8 +78,8 @@ pub const MULTICALL_SUPPORTED_CHAIN_IDS: &[u64] = {
         106,                             // Velas
         40,                              // Telos
         Mode as u64,                     // Mode Mainnet
-        Blast as u64,                    // Blast,
-        PolygonZkEvm as u64,             // Polygon ZkEVM
+        Blast as u64,                    // Blast
+        PolygonZkEvm as u64,             // Polygon zkEVM
         Scroll as u64,                   // Scroll
         60808,                           // Bob
         Zora as u64,                     // Zora
@@ -87,5 +87,7 @@ pub const MULTICALL_SUPPORTED_CHAIN_IDS: &[u64] = {
         888888888,                       // Ancient8
         1380012617,                      // Rari
         70700,                           // Proof of Play
+        Linea as u64,                    // Linea
+        1329,                            // Sei
     ]
 };
