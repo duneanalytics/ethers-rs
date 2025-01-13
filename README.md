@@ -2,7 +2,7 @@
 
 **A complete Ethereum and Celo Rust library**
 
-![Github Actions](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
+[![Github Actions](https://img.shields.io/appveyor/build/duneanalytics/ethers-rs)](https://github.com/duneanalytics/ethers-rs/actions)
 [![Telegram Chat](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fethers_rs)](https://t.me/ethers_rs)
 [![Crates.io][crates-badge]][crates-url]
 
